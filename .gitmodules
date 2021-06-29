@@ -1,0 +1,8 @@
+[submodule "mark-note-web"]
+	path = mark-note-web
+	url = git@github.com:atishekk/mark-note-web.git
+	branch = main
+[submodule "mark-note-api"]
+	path = mark-note-api
+	url = git@github.com:atishekk/mark-note-api.git
+	branch = main
