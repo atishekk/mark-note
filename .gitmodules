@@ -6,3 +6,7 @@
 	path = mark-note-api
 	url = git@github.com:atishekk/mark-note-api.git
 	branch = main
+[submodule "mark-note-desktop"]
+	path = mark-note-desktop
+	url = git@github.com:atishekk/mark-note-desktop.git
+	branch = main
